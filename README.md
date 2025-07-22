@@ -27,4 +27,4 @@ Building a tool that assesses the strength of a password based on criteria such 
 * I create a fuction to make the aplication usable. 
 
 ### PROJECT CODE
-[![Python](https://img.shields.io/badge/Python-Task_Code-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Mayorb909/PRODIGY_CS_02/blob/main/CS_02_Code)
+[![Python](https://img.shields.io/badge/Python-Task_Code-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Mayorb909/PRODIGY_CS_03/blob/main/Code)
